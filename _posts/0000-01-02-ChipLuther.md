@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Chips slide!"
 ---
-This is critical information.
+:tada:
 Use the left arrow to go back!
